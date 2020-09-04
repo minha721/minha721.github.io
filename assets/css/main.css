@@ -29,7 +29,7 @@
 	20. footer
 	21. header-01
 	22. Layout
-	23. Grid Boostrap 
+	23. Grid Boostrap
 	24. Font size
 	25. Margin Padding
 	26. Swiper
@@ -957,7 +957,7 @@ ul {
 
 .overlay-menu ul li.active > a, .overlay-menu ul li a:hover {
     color: #ff594f;
-    text-decoration: line-through;
+    text-decoration: underline;
 }
 
 .fs-button {
@@ -2004,7 +2004,7 @@ ul {
 }
 
 .page-title__divider {
-    width: 40px;
+    width: 120px;
     height: 3px;
     background-color: #333;
     margin-top: 30px;
@@ -2358,9 +2358,9 @@ ul {
     text-align: center;
 }
 
-.footer__coppy {
+/* .footer__coppy {
     color: #a3a3a3;
-}
+} */
 
 @media (min-width: 993px) {
     .footer {
@@ -2497,7 +2497,7 @@ ul {
     padding-right: 20px;
 }
 
-/* 23. Grid Boostrap 
+/* 23. Grid Boostrap
 --------------------------------------------------------------------------------*/
 
 .no-gutters {
